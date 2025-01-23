@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Eduarda 👋
 
-Formada em Sistemas de Informação. Cursando o bootcamp FullStack JavaScript da Generation Brasil com capacitação em tecnologias como HTML5, CSS3, Tailwind CSS, ReactJS, TypeScript e Node.js.
+📝 Formada em Sistemas de Informação. Cursando o bootcamp FullStack JavaScript da Generation Brasil com capacitação em tecnologias como HTML5, CSS3, Tailwind CSS, ReactJS, TypeScript e Node.js.
 
-## 🛠 Principais Tecnologias
+### 🛠 Principais Tecnologias
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
@@ -16,10 +16,12 @@ Formada em Sistemas de Informação. Cursando o bootcamp FullStack JavaScript da
 </p>
 
 ### 📊 Minhas Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-galeno&layout=compact&langs_count=6&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduarda-galeno&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda-galeno&layout=compact&langs_count=6&theme=radical" alt="Top Langs" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eduarda-galeno&show_icons=true&theme=radical" alt="GitHub Stats" height="165px" />
+</div>
 
-## 🌐 Conecte-se Comigo
+### 🌐 Conecte-se Comigo
 <p align="left">
   <a href="https://www.linkedin.com/in/eduardagaleno/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />

@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Eduarda 👋
 
-📝 Estudante de Análise e Desenvolvimento de Sistemas 
+📝 Estudante de Análise e Desenvolvimento de Sistemas.
 
 ### 🛠 Principais Tecnologias
 <p align="left">

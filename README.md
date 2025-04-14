@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Eduarda 👋
 
-📝 Formada em Sistemas de Informação. Cursando o bootcamp FullStack JavaScript da Generation Brasil com capacitação em tecnologias como HTML5, CSS3, Tailwind CSS, ReactJS, TypeScript e Node.js.
+📝 Estudante de Análise e Desenvolvimento de Sistemas 
 
 ### 🛠 Principais Tecnologias
 <p align="left">
